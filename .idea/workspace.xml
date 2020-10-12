@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a5063b8-8c64-4007-a0e9-445498d58b36" name="Default Changelist" comment="" />
+    <list default="true" id="9a5063b8-8c64-4007-a0e9-445498d58b36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iijxcKX9s22upfKlMdWIQXXN0E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,6 +46,7 @@
       <workItem from="1602397595697" duration="1669000" />
       <workItem from="1602405052978" duration="379000" />
       <workItem from="1602504698988" duration="635000" />
+      <workItem from="1602505340344" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1602405177255</created>
