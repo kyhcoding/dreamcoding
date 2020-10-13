@@ -26,7 +26,6 @@ console.log(globalName);
 // has no block scope
 {
 age = 4;
-
 var age;
 }
 console.log(age);
@@ -50,9 +49,9 @@ const maxNumber = 5;
 // object, box container
 // function, first-class function
 
-const conunt = 17;  // Integer
+const count = 17;  // Integer
 const size = 17.1;  // decimal number
-console.log(`value: ${conunt}, type: ${typeof count}`);
+console.log(`value: ${count}, type: ${typeof count}`);
 console.log(`value: ${size}, type: ${typeof size}`);
 
 // number - speicla numeric values: infinity, -infinity, NaN
@@ -63,7 +62,7 @@ console.log(infinity);
 console.log(negativeInfinity);
 console.log(nAn);
 
-// bigInt (fairily new, don't use it yet)
+// bigInt (fairly new, don't use it yet)
 const bigInt = 1234567890123456789012345678901234567890n; // over (-2**53) ~ 2*53)
 console.log(`value: ${bigInt}, type: ${typeof bigInt}`);
 
@@ -116,4 +115,3 @@ text = '7' + 5;
 console.log(`value: ${text}, type: ${typeof text}`);
 text = '8' / '2';
 console.log(`value: ${text}, type: ${typeof text}`);
-
